@@ -23,3 +23,7 @@ And in the second terminal run the command --
 ## All done....
 ## Just enjoy coding....
 
+## You can also refer to the django-react integration guide from the link given below : 
+
+> https://github.com/sksharma-123/Django-react-Integration-guide
+
