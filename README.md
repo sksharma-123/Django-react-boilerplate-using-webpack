@@ -24,5 +24,5 @@ And in the second terminal run the command --
 ## Just enjoy coding....
 
 ## You can also refer to the django-react integration guide from the link given below 
-> https://github.com/sksharma-123/Django-react-Integration-guide
+> https://github.com/sksharma-123/Code-Guide/blob/master/Django-react-integration%20using%20webpack.html
 
